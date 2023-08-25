@@ -16,13 +16,13 @@ weight: 1
 <br>
 <br>
 
-## **Welcome to** 
-# OurWorld <br>Free Zone 
+# h1 title
+## h2 subtitle
 
-### The world's first 100% digital free zone, accessible and affordable for all. Removing complexity from doing business.
+### Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-<button onclick="ml_account('webforms', '5959683', 'u7m4u4', 'show')">
-  Take Part
+<button onclick="yourlink">
+  button
 </button>
 
 </div>
@@ -31,7 +31,7 @@ weight: 1
 
 |||
 
-![placeholder](./img/home_sam.png#mx-auto)
+![placeholder](./img/header.webp#mx-auto)
 
 {% end %}
 
@@ -41,9 +41,9 @@ weight: 1
 
 {% row(style="center" margin="withContainer" padding="none") %}
 
-## **Why** Zanzibar?
+## h2 h2 h2
 
-### A Unique Business Landscape
+### h3 h3 h3
 
 {% end %}
 
@@ -51,10 +51,10 @@ weight: 1
 
 <div class="mx-4 my-4">
 
-![Image](./img/strategic.jpeg#md#mx-auto)
+![Image](./img/item1.webp#md#mx-auto)
 
-#### Strategic Location
-Positioned at the crossroads of Africa and the Indian Ocean, Zanzibar has a rich and diverse culture and offers easy access to regional and international markets.
+#### item 1
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
 
 </div>
 
@@ -62,20 +62,20 @@ Positioned at the crossroads of Africa and the Indian Ocean, Zanzibar has a rich
 
 <div class="mx-4 my-4">
 
-![Image](./img/economicgrowth.jpeg#md#mx-auto)
+![Image](./img/item2.webp#md#mx-auto)
 
-#### Rapid Economic Growth
-In recent years, Tanzania's GDP has been growing at an average rate of around 6-7% annually, showcasing the country's strong economic performance.
+#### item 2
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
 </div>
 
 |||
 
 <div class="mx-4 my-4">
 
-![Image](./img/president.jpeg#md#mx-auto)
+![Image](./img/item3.webp#md#mx-auto)
 
-#### Business-Friendly Policies
-A World Bank report ranked Tanzania as one of the top 10 most improved economies globally in 2020, and Zanzibar's President has expressed a willingness to adapt its regulations and policies.
+#### item 3
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
 
 </div>
 
@@ -85,20 +85,43 @@ A World Bank report ranked Tanzania as one of the top 10 most improved economies
 
 {% row(style="left" margin="withContainer" padding="bottom") %}
 
-![placeholder](./img/digitanomad.png#mx-auto)
+![placeholder](./img/leftimg.webp#mx-auto)
 
 |||
 
-## Simple. Streamlined.
+## h2h2h2
 
-### An affordable way to operate your business, for anyone, from anywhere
+### h3 subtitle
 
-For the entrepreneur, the digital nomad, or any company, we provide a revolutionary platform where you can obtain a digital company license, a bank account supporting both fiat and cryptocurrencies, and handle your legal requirements and taxes, all within a single, streamlined platform. <br>
- <br>Say goodbye to complexities and hello to a new era of simplicity and efficiency, empowering your business to thrive like never before.<br><br>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam <br>
+ <br>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam<br><br>
 
-<button onclick="ml_account('webforms', '5959683', 'u7m4u4', 'show')">
-  Sign Up Now
+<button onclick="yourlink">
+  button
 </button>
+
+{% end %}
+
+<!-- section 2 security -->
+
+{% row(style="right" margin="withContainer" padding="bottom") %}
+
+## h2 h2 h2
+
+### h3 subtitle
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam <br>
+ <br>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam<br><br>
+
+<button onclick="yourlink">
+  button
+</button>
+
+|||
+
+![placeholder](./img/rightimg.webp#mx-auto)
+
+
 
 {% end %}
 
@@ -106,10 +129,10 @@ For the entrepreneur, the digital nomad, or any company, we provide a revolution
 
 {% row(style="center" margin="narrow" padding="none") %}
 
-## Our Benefits
-### Where freedom meets efficiency
+## middle title
+### subtitle
 
-With **OurWorld Free Zone**, you can embark on your business journey with ease, <br>leveraging our innovative technology to streamline every step of the process.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
 
 <br>
 
@@ -119,21 +142,10 @@ With **OurWorld Free Zone**, you can embark on your business journey with ease, 
 
 <div class="mx-4 my-4">
 
-![Image](./img/automated.png#sm#mx-auto)
+![Image](./img/block1.webp#sm#mx-auto)
 
-#### Fully Automated Onboarding 
-Our automated onboarding process, will ensure compliance with KYC and AML regulations at ease and efficiency.
-
-</div>
-
-|||
-
-<div class="mx-4 my-4">
-
-![Image](./img/compatible.png#sm#mx-auto)
-
-#### Banking & Web3 Compatible
-Seamlessly manage both fiat and digital currencies with our comprehensive banking solutions compatible with Web3 technologies.
+#### Lorem ipsum 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 </div>
 
@@ -141,9 +153,21 @@ Seamlessly manage both fiat and digital currencies with our comprehensive bankin
 
 <div class="mx-4 my-4">
 
-![Image](./img/legal.png#sm#mx-auto)
-#### Built-in Legal & Tax Settlement
- Experience hassle-free business operations, as we provide built-in legal and tax settlement services, simplifying legal obligations.
+![Image](./img/block2.webp#sm#mx-auto)
+
+#### Lorem ipsum 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+</div>
+
+|||
+
+<div class="mx-4 my-4">
+
+![Image](./img/block3.webp#sm#mx-auto)
+
+#### Lorem ipsum 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 </div>
 
@@ -155,9 +179,10 @@ Seamlessly manage both fiat and digital currencies with our comprehensive bankin
 
 <div class="mx-4 my-4">
 
-![Image](./img/flexible.png#sm#mx-auto)
-#### Affordable & Flexible Company Licenses
-Ourworld Free Zone offers cost-effective and flexible company licenses, making it easier to kickstart your entrepreneurial journey.
+![Image](./img/block4.webp#sm#mx-auto)
+
+#### Lorem ipsum 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 </div>
 
@@ -165,9 +190,10 @@ Ourworld Free Zone offers cost-effective and flexible company licenses, making i
 
 <div class="mx-4 my-4">
 
-![Image](./img/sovereign.png#sm#mx-auto)
-#### Sovereign Economic Jurisdiction 
-Ourworld Free Zone empowers businesses to operate within an independent economic environment, fostering growth and prosperity.
+![Image](./img/block5.webp#sm#mx-auto)
+
+#### Lorem ipsum 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 </div>
 
@@ -175,9 +201,10 @@ Ourworld Free Zone empowers businesses to operate within an independent economic
 
 <div class="mx-4 my-4">
 
-![Image](./img/tech.png#sm#mx-auto)
-#### Powered by Data Sovereign Tech
-Your Privacy, Your Data, Your Security. Our Quantum Safe Storage will empower you to safeguard your digital information.
+![Image](./img/block6.webp#sm#mx-auto)
+
+#### Lorem ipsum 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 </div>
 
@@ -187,19 +214,19 @@ Your Privacy, Your Data, Your Security. Our Quantum Safe Storage will empower yo
 
 {% row(style="left" margin="withContainer" padding="both") %}
 
-![](./img/presale.png#mx-auto)
+![](./img/bottom.webp#mx-auto)
 
 |||
 
-## Company License Presale
-### Secure your spot with a Special Offer Price
+## h2 h2 h2
+### h3 h3 h3 h3
 
-Be among the first to secure your company license with our exclusive presale offer at a special price. Embrace the future of digital entrepreneurship with OurWorld Free Zone and kickstart your business journey with unprecedented advantages.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 <br>
 
-<button onclick="ml_account('webforms', '5959683', 'u7m4u4', 'show')">
-  Join the Presale
+<button onclick="yourlink">
+  button
 </button>
 
 {% end %}
@@ -208,18 +235,18 @@ Be among the first to secure your company license with our exclusive presale off
 
 {% row(style="center" padding="bottom") %}
 
-[![citizen](img/citizen.png#small)](https://www.thecitizen.co.tz/tanzania/zanzibar/zanzibar-seeks-to-become-digital-freezone--4316150)
+[![logo1](img/logo1.webp#small)](yourlink)
 
 |||
 
-[![biafrica](img/biafrica.png#small)](https://africa.businessinsider.com/local/markets/zanzibar-is-looking-to-explore-other-economic-options-outside-of-tourism/bxxl3wh)
+[![logo2](img/logo2.webp#small)](yourlink)
 
 |||
 
-[![ippmedia](img/ippmedia.png#small)](https://www.ippmedia.com/en/features/mwinyi-keen-establish-digital-hub-isles)
+[![logo3](img/logo3.webp#small)](yourlink)
 
 |||
 
-[![dailynews](img/dailynews.png#small)](https://dailynews.co.tz/mwinyi-commits-to-improvement-of-digital-spaces/)
+[![logo4](img/logo4.webp#small)](yourlink)
 
 {% end %}
