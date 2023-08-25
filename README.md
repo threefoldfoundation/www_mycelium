@@ -1,32 +1,32 @@
-# OurWorld Freezone
+# Your Website
 
 ![](../static/images/logo_placeholder2.png)
 
 ## About
 
-The official website of **OurWorld Freezone**
+The official website of **your website***
 
-Production(master branch) [www.ourworld.freezone.tf](https://www.ourzone.ourworld.tf/)
+Production(master branch) [your website domain)
 
-Staging(developmentr branch) [www2.ourworld.freezone.tf](https://www2.ourzone.ourworld.tf/)
+Staging(developmentr branch) [your website domain)
 
 
-Last updated: March 2023
+Last updated: insert date
 
 ## Contribution
 
-Feel free to [create a new issue](https://github.com/ourworldfreezone/www_ourworld_freezone/issues/) to report an error on the website, or if you have any suggestions on website improvements. 
+Feel free to [create a new issue](your repo) to report an error on the website, or if you have any suggestions on website improvements. 
 
-# Welcome to Ourworld Free Zone Website Repository
+# Welcome to your Repository
 
-- Website Name: Ourworld Free Zone
-- Brief Description: This is the official website of Ourworld Free Zone.
+- Website Name: your website
+- Brief Description: This is the official website of yourwebsite.
 Last Updated: March 2023
 
-- Website URL: https://ourworld.freezone.tf/
+- Website URL: yourwebsite
 
 - For any suggestions or improvement ideas please 
-Create an issue on: https://github.com/ourworldfreezone/www_ourworld_freezone/issues/
+Create an issue on: repo
 
 ## Administrators
 [ThreeFold's Web Admins](https://github.com/orgs/threefoldfoundation/teams/team_web_admin)
@@ -39,7 +39,7 @@ It is highly important to follow this procedure to contribute to the website con
 __WARNING__: DO NOT commit straight into __master__ / __development__ branch.
 
 1. Create an Issue
-Feel free to [create a new issue](https://github.com/threefoldfoundation/www_threefold_io/issues/new) to report an error on the website, or if you have any suggestions on website improvements. 
+Feel free to [create a new issue](repo) to report an error on the website, or if you have any suggestions on website improvements. 
 
 2. Make your own branch from __'development'__ branch.
 by creating a new branch from 'Master' you will be provided with the latest copy of the live website content.
