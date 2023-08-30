@@ -1,6 +1,6 @@
 # Your Website
 
-![](../static/images/logo_placeholder2.png)
+![](../static/images/logo.svg)
 
 ## About
 
