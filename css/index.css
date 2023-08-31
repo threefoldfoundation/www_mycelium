@@ -143,6 +143,14 @@ img[src*="#fig"] {
     border-2
     shadow
   }
+
+  article h2{
+    @apply text-xl lg:text-3xl font-medium
+  }
+
+article p ,li{
+  @apply text-base lg:text-lg
+}
 }
 
 a:hover{
@@ -363,6 +371,7 @@ header {
 .header:hover .back {
   transform: none;
 }
+
 @media (max-width: 768px) {
   /* h2 {
     font-size: 4rem;
