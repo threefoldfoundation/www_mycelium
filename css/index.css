@@ -146,11 +146,11 @@ img[src*="#fig"] {
 }
 
 a:hover{
-  color: #oab7a9;
+  color: #737373;
 }
 
 button:hover  {
-  color: #oab7a9;
+  color: #737373;
 }
 
 button  {
@@ -388,6 +388,9 @@ header {
     padding: 80px 0;
   }
 
+  footer {
+    text-align: center;
+ }
   /* h2 {
     font-size: 3rem;
   } */
