@@ -4,7 +4,7 @@ description: "this is a header."
 insert_anchor_links: "left"
 template: "partials/header.html"
 extra:
-  logoPath: "/images/logo.svg"
+  logoPath: "/images/logo.png"
   imgPath: ""
 ---
 
