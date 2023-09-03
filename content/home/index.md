@@ -31,7 +31,7 @@ weight: 1
 
 |||
 
-![placeholder](./img/header.webp#mx-auto)
+![placeholder](./img/img_header.png#mx-auto)
 
 {% end %}
 
@@ -51,7 +51,7 @@ weight: 1
 
 <div class="mx-4 my-4">
 
-![Image](./img/item1.webp#md#mx-auto)
+![Image](./img/img_column_item.png#md#mx-auto)
 
 #### item 1
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
@@ -62,7 +62,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <div class="mx-4 my-4">
 
-![Image](./img/item2.webp#md#mx-auto)
+![Image](./img/img_column_item.png#md#mx-auto)
 
 #### item 2
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
@@ -72,7 +72,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <div class="mx-4 my-4">
 
-![Image](./img/item3.webp#md#mx-auto)
+![Image](./img/img_column_item.png#md#mx-auto)
 
 #### item 3
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
@@ -85,7 +85,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% row(style="left" margin="withContainer" padding="bottom") %}
 
-![placeholder](./img/leftimg.webp#mx-auto)
+![placeholder](./img/img_section.png#mx-auto)
 
 |||
 
@@ -119,7 +119,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 |||
 
-![placeholder](./img/rightimg.webp#mx-auto)
+![placeholder](./img/img_section.png#mx-auto)
 
 
 
@@ -142,7 +142,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <div class="mx-4 my-4">
 
-![Image](./img/block1.webp#sm#mx-auto)
+![Image](./img/img_column.png#sm#mx-auto)
 
 #### Lorem ipsum 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -153,7 +153,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <div class="mx-4 my-4">
 
-![Image](./img/block2.webp#sm#mx-auto)
+![Image](./img/img_column.png#sm#mx-auto)
 
 #### Lorem ipsum 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -164,7 +164,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <div class="mx-4 my-4">
 
-![Image](./img/block3.webp#sm#mx-auto)
+![Image](./img/img_column.png#sm#mx-auto)
 
 #### Lorem ipsum 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -179,7 +179,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <div class="mx-4 my-4">
 
-![Image](./img/block4.webp#sm#mx-auto)
+![Image](./img/img_column.png#sm#mx-auto)
 
 #### Lorem ipsum 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -190,7 +190,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <div class="mx-4 my-4">
 
-![Image](./img/block5.webp#sm#mx-auto)
+![Image](./img/img_column.png#sm#mx-auto)
 
 #### Lorem ipsum 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -201,7 +201,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <div class="mx-4 my-4">
 
-![Image](./img/block6.webp#sm#mx-auto)
+![Image](./img/img_column.png#sm#mx-auto)
 
 #### Lorem ipsum 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -214,7 +214,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% row(style="left" margin="withContainer" padding="both") %}
 
-![](./img/bottom.webp#mx-auto)
+![](./img/img_portrait.png#mx-auto)
 
 |||
 
@@ -235,18 +235,18 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% row(style="center" padding="bottom") %}
 
-[![logo1](img/logo1.webp#small)](yourlink)
+[![logo1](img/logo_bottom.png#small)](yourlink)
 
 |||
 
-[![logo2](img/logo2.webp#small)](yourlink)
+[![logo2](img/logo_bottom.png#small)](yourlink)
 
 |||
 
-[![logo3](img/logo3.webp#small)](yourlink)
+[![logo3](img/logo_bottom.png#small)](yourlink)
 
 |||
 
-[![logo4](img/logo4.webp#small)](yourlink)
+[![logo4](img/logo_bottom.png#small)](yourlink)
 
 {% end %}

@@ -8,7 +8,7 @@ taxonomies:
   tags: [threefold_grid, technology, peer_to_peer, threefold_cloud]
   categories: [foundation]
 extra:
-  imgPath: blogtemplate.webp
+  imgPath: blog_header.png
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
