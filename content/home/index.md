@@ -203,7 +203,7 @@ Delve into the Mycelium user manual for a comprehensive guide on leveraging the 
 <br>
 
 <button onclick="yourlink">
-  button
+  Explore Manual
 </button>
 
 {% end %}
