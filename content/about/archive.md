@@ -4,7 +4,7 @@ description: ""
 date: 2018-09-14
 updated: 2021-02-20
 draft: false
-weight: 0
+weight: 2
 ---
 
 
@@ -17,13 +17,11 @@ weight: 0
 
 # Join OurZone™ Revolution
 
-### Be the First to Experience the Future of Neo–Entrepreneurial Freezone
+### Be the First to Experience the Future of Neo Freezone
 
-Be among the first to embark on your digital entrepreneurial journey with OurZone™ by participating in our exclusive presale of trade licensing. 
-<br>
-Contact us and secure one of the first 100,000 trade licenses at a special offer price, empowering you to leverage the cutting-edge Neo-Entrepreneurial Freezone platform for your business success.  <br>
-
-<button>[Contact Us](mailto:info@ourworld.tf)</button>
+Join our exclusive community and be part of the revolutionary Neo Freezone that's transforming the way businesses operate. <br>
+<br> 
+<button>[Sign Up Now](mailto:info@ourworld.tf)</button>
 
 </div>
 
@@ -31,7 +29,7 @@ Contact us and secure one of the first 100,000 trade licenses at a special offer
 
 <div class="pt-0 lg:pt-12">
 
-![Image](./img/mycelium.png#mx-auto)
+![Image](./img/header5.png#mx-auto)
 
 </div>
 {% end %}
@@ -76,7 +74,7 @@ Contact us and secure one of the first 100,000 trade licenses at a special offer
  ![Image](./img/3.png#sm#mx-auto)
 
 #### Subscribe
- Subscribe and find the trade license that perfectly aligns with your business requirements.
+ Find the subscription package that perfectly aligns with your business requirements.
 
  </div>
 

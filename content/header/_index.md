@@ -8,8 +8,8 @@ extra:
   imgPath: ""
 ---
 
-- [Info]("https://ourworldfreezone.github.io/info_freezone/intro/intro_readme.html")
-- [News]("/newsroom")
+- [Home]("/home")
+- [About]("/about")
+- [Manual]("https://manual.grid.tf")
 - [Blog]("/blog")
-- [Team]("/people")
-- [Contact]("mailto:info@ourworld.tf")
+- [Get Involved]("/signup")

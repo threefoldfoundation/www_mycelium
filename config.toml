@@ -2,8 +2,8 @@
 base_url = "https://www2.freezone.ourworld.tf/"
 # Change this to your own URL! Please note this variable **must** be uncommented.
 
-title = "OurWorld Free Zone"
-description="Accessible and affordable for all"
+title = "Mycelium"
+description="Unleashing the Power of Decentralized Networks"
 
 # When set to "true", a feed is automatically generated.
 # generate_feed = true

@@ -1,5 +1,5 @@
 ---
-title: "Sign Up"
+title: "About"
 description: ""
 date: 2018-09-14
 updated: 2021-02-20
@@ -11,19 +11,20 @@ weight: 0
 
 <!-- section 1 (co-found) -->
 
-{% row(style="left" margin="none" reverse="rightreserve" padding="bottom") %}
+{% row(style="left" margin="none" reverse="rightreserve" padding="both") %}
 
 <div class="px-4 md:px-16 lg:px-28">
 
-# Join OurZone™ Revolution
-
-### Be the First to Experience the Future of Neo–Entrepreneurial Freezone
-
-Be among the first to embark on your digital entrepreneurial journey with OurZone™ by participating in our exclusive presale of trade licensing. 
 <br>
-Contact us and secure one of the first 100,000 trade licenses at a special offer price, empowering you to leverage the cutting-edge Neo-Entrepreneurial Freezone platform for your business success.  <br>
 
-<button>[Contact Us](mailto:info@ourworld.tf)</button>
+# Mycelium
+
+### Where Digital Innovation Meets the Wisdom of Nature
+
+At the forefront of digital evolution lies Mycelium, a visionary project at the heart of the ThreeFold Grid. Mycelium is more than technology; it's a transformative force reshaping the way we connect in the digital age. 
+<br>
+<br>
+We're on a mission to create a sustainable digital ecosystem where communication is seamless, data is secure, and scalability knows no bounds.
 
 </div>
 
