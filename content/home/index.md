@@ -31,7 +31,7 @@ weight: 1
 
 |||
 
-![placeholder](./img/hero.png#mx-auto)
+![placeholder](./img/hearo3.png#mx-auto)
 
 {% end %}
 
@@ -40,7 +40,7 @@ weight: 1
 {% row(style="left" margin="none" padding="bottom") %}
 
 
-![placeholder](./img/section2.png#mx-auto)
+![placeholder](./img/ok.png#mx-auto)
 
 <br>
 
@@ -82,7 +82,7 @@ Just as nature's Mycelium network serves as a critical component in the ecosyste
 
 <div class="mx-6 my-6">
 
-![Image](./img/decentralized.png#md#mx-auto)
+![Image](./img/decent.png#md#mx-auto)
 
 #### Decentralization
 Designed to operate in a decentralized manner, Mycelium connects nodes and enables efficient data transfer and communication without relying on a single central authority.
@@ -93,7 +93,7 @@ Designed to operate in a decentralized manner, Mycelium connects nodes and enabl
 
 <div class="mx-6 my-6">
 
-![Image](./img/efficiency.png#md#mx-auto)
+![Image](./img/efficient2.png#md#mx-auto)
 
 #### Efficiency
 Mycelium aims to provide an efficient digital communication network where data travels along the most efficient paths, reducing latency and optimizing resource utilization.
@@ -103,7 +103,7 @@ Mycelium aims to provide an efficient digital communication network where data t
 
 <div class="mx-6 my-6">
 
-![Image](./img/resilience.png#md#mx-auto)
+![Image](./img/secure2.png#md#mx-auto)
 
 #### Resilience
 Inspired by nature's resilience, Mycelium aims to create a network that can adapt and continue to function even in the face of challenges or changes, ensuring uninterrupted communication.
