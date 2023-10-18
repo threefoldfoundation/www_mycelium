@@ -1,12 +1,33 @@
-# Your Website
+<h1> Mycelium Website </h1>
 
-![](../static/images/logo.svg)
+![](./static/images/logo.png)
 
-## About
+***
 
-The official website of **your website***
+<h2> Table of Contents </h2>
 
-## Getting Started
+- [Introduction](#introduction)
+- [Requirements](#requirements)
+- [Contribute to the Website](#contribute-to-the-website)
+  - [Fork the Repository](#fork-the-repository)
+  - [Clone the Forked Repository](#clone-the-forked-repository)
+  - [Build the Website](#build-the-website)
+  - [Start the Website](#start-the-website)
+  - [Access the Website on a Browser](#access-the-website-on-a-browser)
+- [Contact the Website Administrators](#contact-the-website-administrators)
+- [Website Maintenance](#website-maintenance)
+
+***
+
+## Introduction
+
+The repository contains the official website of **Mycelium** by ThreeFold.
+
+## Requirements
+
+- [Zola](https://www.getzola.org/documentation/getting-started/installation/)
+
+## Contribute to the Website
 
 ### Fork the Repository
 
@@ -16,54 +37,44 @@ On the top right corner of the repository page, you will see a button labeled "F
 
 After forking, go to your GitHub profile, and you should see the forked repository listed there. Click on it. On the right side, you will find a green button labeled "Code." Click on it, and you can either download the repository as a ZIP file or use Git to clone it to your local machine.
 
-## Replace Template Images
+To use Git, use this template with your own Github account:
 
-USE IMAGE TEMPLATE ON: [FIGMA](https://www.figma.com/file/ZOf117YaHS3Gg3IJOvSIZ4/photo-templates?type=design&node-id=0%3A1&mode=design&t=WeavsHLNVCNYNoJg-1)
+```
+git clone https://github.com/YOUR_GITHUB_ACCOUNT/www_mycelium
+```
 
-Access the provided image template by clicking on the link provided. The template is designed with a fixed format for images, and its layout includes predefined image frames with clear instructions for each section. Familiarize yourself with the template's structure and layout before proceeding.
+### Build the Website
 
-Replace the existing image frames in the figma template with your own images, ensuring that they match the specified dimensions and aspect ratios to maintain responsiveness.
+In the cloned repository directory, build the website:
 
-### Customizing Your Website
- Export the images from figma files on the new repository. Detailed instructions are provided within the figma file.
- 
-  Customize the content as needed to align with your website's theme and purpose, following the instructions within the file. After making these changes, export the images as image files. Be sure to follow any additional guidelines provided in the template file for optimization.
+```
+./build.sh
+```
 
-### Reviewing New Website Changes Locally
+### Start the Website
 
-#### Access the Terminal
-Within your code editor, open the terminal or command line interface. Make sure you are in the root directory of your website project in the terminal.
+In the cloned repository directory, start the website:
 
-#### Run the Build Script: 
-Type **./build.sh** in the terminal and press Enter. This script is responsible for building or compiling your website code and assets.
+```
+./start.sh
+```
 
-#### Run the Start Script: 
-After the build process is complete, type **./start.sh** in the terminal and press Enter. This script typically starts a local development server.
+### Access the Website on a Browser
 
-Wait for the Localhost URL: The start script will initiate a local development server, and it will display a localhost URL, such as **http://localhost:xxxx**, where xxxx is a port number. Wait for this URL to be generated.
+After running `start.sh`, you can access the website on a browser with the URL displayed after the line `Web server is available at...`  
 
-### Open the URL in Your Browser
-Once the localhost URL is generated, open your web browser and enter the provided URL (e.g., http://localhost:xxxx). This will display your website locally, allowing you to review the changes you made.
+The website is usually available at this URL:
 
-### Publishing New Website
+```
+http://127.0.0.1:1111/
+```
 
-To publish your website with [ThreeFold's Operations team](https://github.com/threefoldtech/tf_operations/issues), create a new issue in their GitHub repository here, specifying your preferred domains. They will guide you through the process of domain allocation and setting up your site. Once it's live, test it thoroughly, and feel free to reach out for further support or updates.
+## Contact the Website Administrators
 
-Feel free to [create a new issue](your repo) to report an error on the website, or if you have any suggestions on website improvements. 
+To contact the admins of this website, reach out to Sasha (@sasha-astiadi) and Hassan ( @ehab-hassan).
 
-# Welcome to your Repository
-
-- Website Name: your website
-- Brief Description: This is the official website of yourwebsite.
-Last Updated: March 2023
-
-- Website URL: yourwebsite
-
-- For any suggestions or improvement ideas please 
-Create an issue on: repo
-
-## Administrators
-[ThreeFold's Web Admins](https://github.com/orgs/threefoldfoundation/teams/team_web_admin)
+You can also contact the ThreeFold admins here:
+[ThreeFold's Web Admins](https://github.com/orgs/threefoldfoundation/teams/team_web_admin).
 
 ## Website Maintenance
 
