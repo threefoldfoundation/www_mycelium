@@ -15,7 +15,8 @@
   - [Start the Website](#start-the-website)
   - [Access the Website on a Browser](#access-the-website-on-a-browser)
 - [Contact the Website Administrators](#contact-the-website-administrators)
-- [Website Maintenance](#website-maintenance)
+- [Access the Website Online](#access-the-website-online)
+- [Steps to Contribute](#steps-to-contribute)
 
 ***
 
@@ -76,7 +77,13 @@ To contact the admins of this website, reach out to Sasha (@sasha-astiadi) and H
 You can also contact the ThreeFold admins here:
 [ThreeFold's Web Admins](https://github.com/orgs/threefoldfoundation/teams/team_web_admin).
 
-## Website Maintenance
+## Access the Website Online
+
+For now, the development version of the website is available at this URL: https://www2.mycelium.threefold.io/
+
+Once the website is ready for production, we will share the production URL.
+
+## Steps to Contribute
 
 ![readme](https://user-images.githubusercontent.com/43240801/236867088-56c95abd-510c-4202-b0c5-317cdfb75cb3.png)
 
