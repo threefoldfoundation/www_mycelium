@@ -8,7 +8,7 @@ jobs:
     name: Deploy
     runs-on: ubuntu-latest
     steps:
-    - name: pushing latest change on www2.mycelium.threefold.io
+    - name: pushing latest changes on www2.mycelium.threefold.io
       uses: appleboy/ssh-action@master
       with:
         host: www2.mycelium.threefold.io
