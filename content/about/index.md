@@ -138,7 +138,6 @@ Mycelium can distribute network traffic effectively. In cases of increased netwo
 
 ### An Integral Component of Sustainable Decentralization
 
-<br>
 Mycelium seamlessly integrates within the broader ThreeFold ecosystem, playing a pivotal role in the journey towards sustainable and decentralized digital transformation. 
 <br>
 As a key component, Mycelium empowers the ThreeFold Grid with efficient, secure, and scalable networking solutions, contributing to a future where digital connectivity is both eco-conscious and accessible to all.
