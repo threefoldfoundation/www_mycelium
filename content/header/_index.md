@@ -12,4 +12,4 @@ extra:
 - [About]("/about")
 - [Manual]("https://manual.grid.tf")
 - [Blog]("/blog")
-- [Get Involved]("/signup")
+- [Get Involved]("mailto:info@threefold.io")
