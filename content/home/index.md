@@ -38,8 +38,6 @@ weight: 1
 <!-- section 1 (header) -->
 
 {% row(style="left" margin="withContainer" padding="bottom") %}
-{% row(style="left" margin="none" padding="both") %}
-
 
 ![placeholder](./img/ok11.png#mx-md)
 
