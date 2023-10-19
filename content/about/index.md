@@ -110,7 +110,7 @@ Mycelium's routing algorithms prioritize the shortest path in terms of latency f
 {% row(style="left" margin="none" padding="bottom") %}
 
 
-![placeholder](./img/UP.png#mx-auto)
+![placeholder](./img/up.png#mx-auto)
 
 |||
 
