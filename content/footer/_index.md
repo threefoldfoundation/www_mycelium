@@ -4,7 +4,7 @@ description: ""
 insert_anchor_links: "left"
 template: "partials/footer.html"
 extra:
-  logoPath: "images/logo.svg"
+  logoPath: "images/logo.png"
   socialLinks: { Github: "https://github.com/ourworldfreezone", Twitter: "https://twitter.com/threefold_io", Telegram: "https://t.me/threefoldnews"  }
 ---
 
