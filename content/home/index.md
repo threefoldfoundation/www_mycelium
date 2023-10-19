@@ -6,20 +6,20 @@ updated: 2021-02-20
 draft: false
 weight: 1
 ---
-
+<div class="container mx-auto">
 <!-- section 1 (header) -->
+
 
 {% row(style="left" margin="none" reverse="rightreserve" padding="both") %}
 
-<div class="px-4 md:px-16 lg:px-28">
 
-<br>
-<br>
+
+<div class="px-4 md:px-16 lg:px-28">
 
 # MYCELIUM
 ### Unleashing the Power of Decentralized Networks
 
-#### Discover the Future of Secure, Efficient, and Scalable Networking with Mycelium, a Key Component of the ThreeFold Grid. Join the Revolution.
+##### Discover the Future of Secure, Efficient, and Scalable Networking with Mycelium, a Key Component of the ThreeFold Grid. Join the Revolution.
 
 <button onclick="/about">
   Explore Mycelium
@@ -38,6 +38,7 @@ weight: 1
 <!-- section 1 (header) -->
 
 {% row(style="left" margin="withContainer" padding="bottom") %}
+{% row(style="left" margin="none" padding="both") %}
 
 
 ![placeholder](./img/ok11.png#mx-md)
@@ -203,5 +204,7 @@ Delve into the Mycelium user manual for a comprehensive guide on leveraging the 
   Explore Manual
 </button>
 
+
+</div>
 {% end %}
 

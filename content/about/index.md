@@ -7,13 +7,13 @@ draft: false
 weight: 0
 ---
 
-
+<div class="container mx-auto">
 
 <!-- section 1 (co-found) -->
 
 {% row(style="left" margin="none" reverse="rightreserve" padding="both") %}
 
-<div class="px-4 md:px-16 lg:px-28">
+<div class="px-0 md:px-16 lg:px-28">
 
 <br>
 
@@ -30,16 +30,14 @@ It is an advanced IPv6 overlay network designed to create a decentralized and ef
 
 |||
 
-<div class="pt-0 lg:pt-12">
-
 ![Image](./img/mycelium.png#mx-auto)
 
-</div>
+
 {% end %}
 
 <!-- section 2 (header) -->
 
-{% row(style="center" margin="withContainer" padding="bottom") %}
+{% row(style="center" margin="narrow" padding="top") %}
 
 ## Why Mycelium 
 
@@ -51,13 +49,15 @@ Mycelium facilitates secure, efficient, and scalable data transfer and communica
 
 Mycelium is developed to address the limitations of traditional networking protocols and to contribute to a more sustainable and eco-conscious digital ecosystem. It strives to revolutionize digital communication, making it not only efficient and secure but also environmentally responsible. The inspiration for Mycelium comes from the need for a technology that adapts to changing network conditions and operates efficiently, even in a rapidly evolving digital landscape.
 
+<br>
 
 <button onclick="yourlink">
   Learn More
 </button>
 
-
 {% end %}
+
+
 
 {% row(style="left" margin="none" reverse="rightreserve" padding="both") %}
 
@@ -80,7 +80,7 @@ Mycelium's routing algorithms prioritize the shortest path in terms of latency f
 
 <div class="pt-0 lg:pt-12">
 
-![Image](./img/mesh.png#mx-auto)
+![Image](./img/mesh_resize.png#mx-auto)
 
 </div>
 {% end %}
@@ -158,3 +158,4 @@ allows every application on the OurApps™ <br>to attain a level of security and
 
 </div>
 
+</div>
