@@ -21,7 +21,7 @@ weight: 1
 
 #### Discover the Future of Secure, Efficient, and Scalable Networking with Mycelium, a Key Component of the ThreeFold Grid. Join the Revolution.
 
-<button onclick="yourlink">
+<button onclick="/about">
   Explore Mycelium
 </button>
 
@@ -37,12 +37,10 @@ weight: 1
 
 <!-- section 1 (header) -->
 
-{% row(style="left" margin="none" padding="bottom") %}
+{% row(style="left" margin="withContainer" padding="bottom") %}
 
 
-![placeholder](./img/ok.png#mx-auto)
-
-<br>
+![placeholder](./img/ok11.png#mx-md)
 
 |||
 
@@ -55,7 +53,7 @@ At the forefront of digital evolution lies Mycelium, a visionary project at the 
 
 <br>
 
-<button onclick="yourlink">
+<button onclick="/about">
   Learn More
 </button>
 
@@ -68,10 +66,9 @@ At the forefront of digital evolution lies Mycelium, a visionary project at the 
 
 <div class="container mx-auto"> 
 
-{% row(style="center" margin="withContainer" padding="bottom") %}
+{% row(style="center" margin="narrow" padding="none") %}
 
 ## Inspired by Nature
-
 ### Nature's Blueprint for Digital Connectivity
 
 Just as nature's Mycelium network serves as a critical component in the ecosystems of forests, connecting trees and plants underground, our technology, is inspired by the efficiency and resilience of these natural networks.
@@ -116,7 +113,7 @@ Inspired by nature's resilience, Mycelium aims to create a network that can adap
 
 <div class="container mx-auto"> 
 
-{% row(style="center" margin="withContainer" padding="bottom") %}
+{% row(style="center" margin="narrow" padding="none") %}
 
 ## How it Works
 
@@ -164,7 +161,7 @@ Each node in the system is identified by a unique key pair. Data between nodes i
 
 <!-- section 3 (header) -->
 
-{% row(style="center" margin="withContainer" padding="bottom") %}
+{% row(style="center" margin="narrow" padding="bottom") %}
 
 ## A Part of ThreeFold Ecosystem
 
@@ -175,7 +172,7 @@ As a key component, Mycelium empowers the ThreeFold Grid with efficient, secure,
 
 <br>
 
-![](img/TFGRID.png#mx-auto)
+![](img/TFbgb.png#mx-auto)
 
 
 <br>
