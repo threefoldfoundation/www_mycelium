@@ -10,6 +10,5 @@ extra:
 
 - [Home]("/home")
 - [About]("/about")
-- [Manual]("https://manual.grid.tf")
-- [Blog]("/blog")
-- [Get Involved]("mailto:info@threefold.io")
+- [Manual]("https://threefoldfoundation.github.io/info_cloud_production/tfcloud/mycelium/mycelium.html")
+- [Contact]("mailto:info@threefold.io")
