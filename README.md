@@ -62,9 +62,9 @@ In the cloned repository directory, start the website:
 
 ### Access the Website on a Browser
 
-After running `start.sh`, you can access the website on a browser with the URL displayed after the line `Web server is available at...`  
+After running `start.sh`, the script will open a browser on `port 1111`.
 
-The website is usually available at this URL:
+The website is available at this URL:
 
 ```
 http://127.0.0.1:1111/

@@ -13,11 +13,14 @@ fi
 
 # compiles tailwind css & launches locally
 rm -rf public static/css
-./tailwindcss -i css/index.css -o ./static/css/index.css --watch & zola serve &
+./tailwindcss -i css/index.css -o ./static/css/index.css --watch &
 
 # compiles tailwind css for prod & builds project
 ./tailwindcss -i css/index.css -o ./static/css/index.css --minify
 zola build
+
+# serve the website
+zola serve --port 1111 --open &
 
 # kills zola and tw bg processes on interrupt
 trap 'kill $(jobs -p); exit 1' INT
