@@ -19,7 +19,7 @@ weight: 0
 
 # Mycelium
 
-### Where Digital Innovation Meets the Wisdom of Nature
+### Where Digital Innovation <br> Meets the Wisdom of Nature
 
 At the forefront of digital evolution lies Mycelium, a visionary project at the heart of the ThreeFold Grid. Mycelium is more than technology; it's a transformative force reshaping the way we connect in the digital age. 
 <br>
@@ -53,8 +53,8 @@ Mycelium is developed to address the limitations of traditional networking proto
 
 <br>
 
-<button onclick="yourlink">
-  Learn More
+<button onclick="window.open('https://threefoldfoundation.github.io/info_cloud_production/tfcloud/mycelium/mycelium.html', '_blank')">
+  Read the Manual
 </button>
 
 {% end %}
@@ -98,11 +98,6 @@ Mycelium's routing algorithms prioritize the shortest path in terms of latency f
 
 <br>
 
-<button onclick="yourlink">
-  Learn More
-</button>
-
-
 {% end %}
 
 <!-- section 3 (header) -->
@@ -117,14 +112,14 @@ Mycelium's routing algorithms prioritize the shortest path in terms of latency f
 ## Enhances Scalability
 ### Designed to Adapt 
 
-Mycelium is designed to dynamically adapt to changing network conditions. This means that as new nodes join the network or existing nodes leave, the system can adjust seamlessly. This adaptability allows Mycelium to accommodate an increasing number of participants without compromising performance.
+Mycelium is an open-source project designed to dynamically adapt to changing network conditions. This means that as new nodes join the network or existing nodes leave, the system can adjust seamlessly. This adaptability allows Mycelium to accommodate an increasing number of participants without compromising performance.
 <br>
 Mycelium can distribute network traffic effectively. In cases of increased network usage or high data transfer demands, the system can balance the load by routing data through multiple paths or nodes. This load distribution ensures that the network can handle a larger volume of data and more users without becoming overwhelmed.
 
 <br>
 
-<button onclick="yourlink">
-  Learn More
+<button onclick="window.open('https://github.com/threefoldtech/mycelium', '_blank')">
+  Read the Code
 </button>
 
 
@@ -149,7 +144,7 @@ As a key component, Mycelium empowers the ThreeFold Grid with efficient, secure,
 
 <br>
 
-<button onclick="https://threefold.io">
+<button onclick="window.open('https://threefold.io', '_blank')">
   Learn More
 </button>
 
