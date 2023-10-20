@@ -5,7 +5,7 @@ insert_anchor_links: "left"
 template: "partials/footer.html"
 extra:
   logoPath: "images/logo.png"
-  socialLinks: { Github: "https://github.com/ourworldfreezone", Twitter: "https://twitter.com/threefold_io", Telegram: "https://t.me/threefoldnews"  }
+  socialLinks: { Github: "https://github.com/threefoldtech/mycelium", Twitter: "https://twitter.com/threefold_io", Telegram: "https://t.me/threefoldnews"  }
 ---
 
 {% row(style="lean") %}
@@ -16,11 +16,11 @@ extra:
 
 <a onclick="window.open('https://threefold.io', '_blank')"><h6>ThreeFold</h6></a>
 
-###### [Incubaid](https://manual.grid.tf/threefold_token/buy_sell_tft/buy_sell_tft.html)
+<a onclick="window.open('https://www.incubaid.com/', '_blank')"><h6>Incubaid</h6></a>
 
-###### [Mazraa](https://dashboard.grid.tf/)
+<a onclick="window.open('https://www.mazraa.io/', '_blank')"><h6>Mazraa</h6></a>
 
-###### [Freeflow Nation](https://manual.grid.tf/farmers/farmers.html)
+<a onclick="window.open('https://freeflownation.org/', '_blank')"><h6>Freeflow Nation</h6></a>
 
 |||
 
@@ -30,7 +30,7 @@ extra:
 
 <a onclick="window.open('https://ourworld.tf', '_blank')"><h6>OurWorld</h6></a>
 
-###### [Freezone](/)
+<a onclick="window.open('https://freezone.ourworld.tf/', '_blank')"><h6>Freezone</h6></a>
 
 <a onclick="window.open('https://ourphone.ourworld.tf/', '_blank')"><h6>OurPhone</h6></a>
 
@@ -45,17 +45,16 @@ extra:
 
 <br>
 
-<a onclick="window.open('https://ourworldfreezone.github.io/info_freezone/', '_blank')"><h6>Knowledgebase</h6></a>
+<a href="/about"> Mycelium </a>
 
-###### [Blog](/blog)
+<a onclick="window.open('https://threefoldfoundation.github.io/info_cloud_production/tfcloud/mycelium/mycelium.html', '_blank')"><h6>Knowledge Base</h6></a>
 
 <a onclick="window.open('https://t.me/threefoldnews', '_blank')"><h6>Telegram</h6></a>
-
 
 <a onclick="window.open('https://threefoldfaq.crisp.help/en/', '_blank')"><h6>Support</h6></a>
 
 
-<a onclick="window.open('https://github.com/ourworldfreezone', '_blank')"><h6>Github</h6></a>
+<a onclick="window.open('https://github.com/threefoldtech/mycelium', '_blank')"><h6>Github</h6></a>
 
 {% end %}
 
