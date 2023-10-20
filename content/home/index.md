@@ -22,7 +22,7 @@ weight: 1
 ##### Discover the Future of Secure, Efficient, and Scalable Networking with Mycelium, a Key Component of the ThreeFold Grid. Join the Revolution.
 
 
-<button onclick="/about">Explore Mycelium</button>
+<button>[Explore Mycelium](/about)</button>
 
 </div>
 
@@ -51,9 +51,7 @@ At the forefront of digital evolution lies Mycelium, a visionary project at the 
 
 <br>
 
-<button onclick="/about">
-  Learn More
-</button>
+<button>[Learn More](/about)</button>
 
 </div>
 
@@ -177,7 +175,7 @@ As a key component, Mycelium empowers the ThreeFold Grid with efficient, secure,
 
 <br>
 
-<button onclick="https://threefold.io">
+<button onclick="window.open('https://threefold.io', '_blank')">
   Learn More
 </button>
 
@@ -199,10 +197,11 @@ Delve into the Mycelium user manual for a comprehensive guide on leveraging the 
 
 <br>
 
-<button onclick="https://manual.grid.tf">
-  Explore Manual
-</button>
+<button onclick="window.open('https://threefoldfoundation.github.io/info_cloud_production/tfcloud/mycelium/mycelium.html', '_blank')">
 
+  Explore the Manual
+
+</button>
 
 </div>
 {% end %}
