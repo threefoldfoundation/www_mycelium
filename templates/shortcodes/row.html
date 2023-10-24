@@ -44,7 +44,7 @@ Parameters:
     {% set row_class = row_class ~ " items-center" %}
 {% endif %}
 
-{% set col_class = "flex-1 mb-4 md:mb-12 lg:mb-0 mx-4" %}
+{% set col_class = "lg:flex-1 mb-4 md:mb-12 lg:mb-0 mx-4" %}
 
 
 {% set row_id = '' %}
@@ -147,7 +147,7 @@ Parameters:
 
     {% if "left" in style %}
         {% set row_class = row_class ~ " text-center lg:text-left md:text-left justify-center " %}
-        {% set col_class = col_class ~ " flex-1" %}
+        {% set col_class = col_class ~ " " %}
     {% endif %}
 
 

@@ -38,11 +38,11 @@ img[src*="#sm"] {
 }
 
 img[src*="#md"] {
-    width: 300px;
+    width: 500px;
 }
 
 img[src*="#medium"] {
-    width: 500px;
+    width: 700px;
 }
 
 img[src*="#logo"] {
@@ -85,7 +85,7 @@ img[src*="#fig"] {
 
 @layer components {
   h1 {
-    @apply text-3xl lg:text-5xl xl:text-7xl font-bold leading-4 my-4;
+    @apply text-3xl lg:text-5xl xl:text-6xl font-bold leading-4 my-4;
     font-family: "lato", sans-serif;
     line-height: 0.9;
     
@@ -94,7 +94,7 @@ img[src*="#fig"] {
     @apply font-medium;
   }
   h2 {
-    @apply text-3xl md:text-4xl lg:text-6xl font-bold leading-4 my-4;
+    @apply text-3xl md:text-4xl lg:text-5xl font-bold leading-4 my-4;
     font-family: "lato", sans-serif;
     line-height: 0.9;
     

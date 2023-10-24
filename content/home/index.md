@@ -10,21 +10,14 @@ weight: 1
 <!-- section 1 (header) -->
 
 
-{% row(style="left" margin="none" reverse="rightreserve" padding="both") %}
-
-
-
-<div class="px-4 md:px-16 lg:px-28">
+{% row(style="left" bgStyle="full" margin="moderate" reverse="rightreserve" padding="both") %}
 
 # MYCELIUM
 ### Unleashing the Power of Decentralized Networks
 
 ##### Discover the Future of Secure, Efficient, and Scalable Networking with Mycelium, a Key Component of the ThreeFold Grid. Join the Revolution.
 
-
 <button>[Explore Mycelium](/about)</button>
-
-</div>
 
 <br>
 
@@ -34,15 +27,15 @@ weight: 1
 
 {% end %}
 
-<!-- section 1 (header) -->
 
-{% row(style="left" margin="withContainer" padding="bottom") %}
+<!-- section 2 (header) -->
+
+{% row(style="left" margin="wide" padding="bottom") %}
 
 ![placeholder](./img/ok11.png#mx-md)
 
 |||
 
-<div class="px-4 md:px-16 lg:px-28">
 
 ## Discover Mycelium
 ### Empowering Digital Evolution
@@ -53,7 +46,7 @@ At the forefront of digital evolution lies Mycelium, a visionary project at the 
 
 <button>[Learn More](/about)</button>
 
-</div>
+
 
 {% end %}
 
@@ -62,7 +55,7 @@ At the forefront of digital evolution lies Mycelium, a visionary project at the 
 
 <div class="container mx-auto"> 
 
-{% row(style="center" margin="narrow" padding="none") %}
+{% row(style="center" margin="narrow" padding="top") %}
 
 ## Inspired by Nature
 ### Nature's Blueprint for Digital Connectivity
@@ -73,7 +66,7 @@ Just as nature's Mycelium network serves as a critical component in the ecosyste
 
 {% row(style="center" margin="narrow" padding="bottom") %}
 
-<div class="mx-6 my-6">
+<div class="mx-0 lg:mx-4 my-4">
 
 ![Image](./img/decent.png#md#mx-auto)
 
@@ -84,7 +77,7 @@ Designed to operate in a decentralized manner, Mycelium connects nodes and enabl
 
 |||
 
-<div class="mx-6 my-6">
+<div class="mx-0 lg:mx-4 my-4">
 
 ![Image](./img/efficient2.png#md#mx-auto)
 
@@ -94,7 +87,7 @@ Mycelium aims to provide an efficient digital communication network where data t
 
 |||
 
-<div class="mx-6 my-6">
+<div class="mx-0 lg:mx-4 my-4">
 
 ![Image](./img/secure2.png#md#mx-auto)
 
@@ -109,7 +102,7 @@ Inspired by nature's resilience, Mycelium aims to create a network that can adap
 
 <div class="container mx-auto"> 
 
-{% row(style="center" margin="narrow" padding="none") %}
+{% row(style="center" margin="narrow" padding="top") %}
 
 ## How it Works
 
@@ -123,7 +116,7 @@ Mycelium, like its natural namesake, thrives on decentralization, efficiency, an
 
 {% row(style="center" margin="narrow" padding="bottom") %}
 
-<div class="mx-4 my-4">
+<div class="mx-0 lg:mx-4 my-4">
 
 ![Image](./img/nodes.png#md#mx-auto)
 
@@ -134,7 +127,7 @@ Mycelium operates through a network of decentralized nodes, similar to how natur
 
 |||
 
-<div class="mx-4 my-4">
+<div class="mx-0 lg:mx-4 my-4">
 
 ![Image](./img/routing.png#md#mx-auto)
 
@@ -144,7 +137,7 @@ Mycelium optimizes data routing by choosing the most efficient path for communic
 
 |||
 
-<div class="mx-4 my-4">
+<div class="mx-0 lg:mx-4 my-4">
 
 ![Image](./img/encryption.png#md#mx-auto)
 
@@ -155,9 +148,9 @@ Each node in the system is identified by a unique key pair. Data between nodes i
 
 {% end %}
 
-<!-- section 3 (header) -->
+<!-- section 4 -->
 
-{% row(style="center" margin="narrow" padding="bottom") %}
+{% row(style="center" margin="narrow" padding="both") %}
 
 ## A Part of ThreeFold Ecosystem
 
@@ -182,11 +175,11 @@ As a key component, Mycelium empowers the ThreeFold Grid with efficient, secure,
 
 {% end %}
 
-<!-- section 5 subscription -->
+<!-- section 5  -->
 
-{% row(style="left" margin="withContainer" padding="none") %}
+{% row(style="left" margin="wide" padding="none") %}
 
-![](./img/manual.png#mx-auto)
+![](./img/manual.png#md#mx-auto)
 
 |||
 

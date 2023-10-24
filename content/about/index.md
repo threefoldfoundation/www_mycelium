@@ -9,11 +9,11 @@ weight: 0
 
 <div class="container mx-auto">
 
-<!-- section 1 (co-found) -->
+<!-- section 1 -->
 
-{% row(style="left" margin="none" reverse="rightreserve" padding="both") %}
+{% row(style="left" bgStyle="full" margin="wide" reverse="rightreserve" padding="both") %}
 
-<div class="px-0 md:px-16 lg:px-28">
+
 
 <br>
 
@@ -26,7 +26,7 @@ At the forefront of digital evolution lies Mycelium, a visionary project at the 
 <br>
 It is an advanced IPv6 overlay network designed to create a decentralized and efficient communication platform within the ThreeFold Grid. It offers a novel approach to networking inspired by the resilience and efficiency of nature's mycelium networks.
 
-</div>
+
 
 |||
 
@@ -35,15 +35,18 @@ It is an advanced IPv6 overlay network designed to create a decentralized and ef
 
 {% end %}
 
-<!-- section 2 (header) -->
 
-{% row(style="center" margin="narrow" padding="none") %}
+<!-- section 2 -->
+
+{% row(style="center" margin="narrow" padding="bottom") %}
 
 ## Why Mycelium 
 
 ### Redefining Digital Communication
 
-![](img/shroom.png#mx-auto)
+![](img/shroom.png#medium#mx-auto)
+
+<br>
 
 Mycelium facilitates secure, efficient, and scalable data transfer and communication among network nodes. It optimizes data routing, ensuring that information follows the shortest path in terms of latency, leading to faster and more efficient communication. The technology relies on end-to-end encryption, where each node in the system is identified by a unique key pair, ensuring data security and privacy. This ensures that data remains confidential and authentic, enhancing the privacy and integrity of the network.
 
@@ -60,9 +63,9 @@ Mycelium is developed to address the limitations of traditional networking proto
 {% end %}
 
 
-{% row(style="left" margin="none" reverse="rightreserve" padding="none") %}
+{% row(style="left" margin="wide" reverse="rightreserve" padding="both") %}
 
-<div class="px-4 md:px-16 lg:px-28">
+
 
 ##  Efficient
 ### Optimizes Data Routing
@@ -70,24 +73,27 @@ Mycelium is developed to address the limitations of traditional networking proto
 Mycelium operates through a network of decentralized nodes, similar to nature's mycelium network. Each node plays a critical role in the network, connecting to other nodes.
 <br>
 Mycelium's routing algorithms prioritize the shortest path in terms of latency for data transfer. This means that data is sent along the most direct and efficient route, reducing the time it takes for information to travel from the source node to the destination node.
-</div>
+
 
 |||
 
-<div class="pt-0 lg:pt-12">
 
-![Image](./img/efficiency2.png#mx-auto)
 
-</div>
+![Image](./img/efficiency3.png#md#mx-auto)
+
+
 {% end %}
 
-<!-- section 3 (header) -->
 
-{% row(style="left" margin="none" padding="bottom") %}
 
-![placeholder](./img/security.png#lg)
+<!-- section 3 -->
+
+{% row(style="left" margin="wide" padding="both") %}
+
+![placeholder](./img/security2.png#md#mx-auto)
 
 |||
+
 
 ## Enhancing Security
 ### End-to-End Encryption
@@ -96,18 +102,13 @@ Mycelium's routing algorithms prioritize the shortest path in terms of latency f
 <br>
  When a node sends data to another node within the Mycelium network, the data is encrypted using the recipient's public key. This encryption ensures that even if the data is intercepted during transmission, it remains confidential and unreadable without the corresponding private key.
 
-<br>
-
 {% end %}
 
-<!-- section 3 (header) -->
 
-{% row(style="left" margin="none" padding="bottom") %}
+<!-- section 4 -->
 
 
-![placeholder](./img/up.png#mx-auto)
-
-|||
+{% row(style="left" margin="wide" reverse="rightreserve" padding="both") %}
 
 ## Enhances Scalability
 ### Designed to Adapt 
@@ -122,12 +123,17 @@ Mycelium can distribute network traffic effectively. In cases of increased netwo
   Read the Code
 </button>
 
+|||
+
+
+![placeholder](./img/up2.png#md#mx-auto)
+
 
 {% end %}
 
-<!-- section 3 (header) -->
+<!-- section 5 -->
 
-{% row(style="center" margin="narrow" padding="bottom") %}
+{% row(style="center" margin="narrow" padding="both") %}
 
 ## A Part of ThreeFold Ecosystem
 
