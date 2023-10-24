@@ -7,10 +7,11 @@
 {%- set logoPath = section.extra.logoPath %}
 
 <html>
-    <head /><body>
-        <div class="mt-6 border-t border-gray-200 pt-2"></div>
+  <head /><body>
+      <div class="mt-6 border-t border-gray-200 pt-2"></div>
+      <div class="container mx-auto">
         <footer class="bg-white">
-          <div class="max-w-screen-2xl mx-auto py-12 px-4 sm:px-6 lg:py-16 lg:px-8">
+          <div class="mx-auto py-12 px-4 sm:px-6 lg:py-16 lg:px-8">
             <div class="xl:flex xl:gap-4 items-center">
               <div class="space-y-8 lg:max-w-sm xl:max-w-sm lg:mr-8 lg:mb-8 xl:col-span-1">
                 <img class="w-40 h-auto sm:w-15 mx-auto" src="{{ get_url(path=logoPath)}}" alt="Ourworld Freezone Logo" />
@@ -18,13 +19,13 @@
                   {{section.description}}
                 </p>
                 {% include "partials/socialLinks.html" %}
-            </div>
-
-            <div class="mt-6 lg:mt-0 w-full px-8 sm:px-12 md:px-16 lg:px-20 footer-cust">
-                {{ section.content | safe }}
-            </div>
-              
               </div>
+
+               <div class="mt-6 lg:mt-0 w-full px-8 sm:px-12 md:px-16 lg:px-20 footer-cust">
+                {{ section.content | safe }}
+               </div>
+              
+            </div>
               <div  class="mt-12 mx-auto border-t border-gray-200 pt-8">
                 <p data-v-14efe4a7="" class="text-base leading-6 text-gray-400 text-center">
                 © 2023 ThreeFold, All rights reserved.
@@ -33,13 +34,9 @@
                 </a><a href="https://www.threefold.io/tfLabs/" class="leading-6 text-gray-500 hover:text-gray-900">ThreeFold Labs IT</a></p>
               </div>
     
-            </div>
-            
           </div>
-
-
-          
         </footer>
-        </body>
-        </html>
+      </div>
+  </body>
+</html>
         
