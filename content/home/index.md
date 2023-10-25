@@ -10,7 +10,7 @@ weight: 1
 <!-- section 1 (header) -->
 
 
-{% row(style="left" bgStyle="full" margin="moderate" reverse="rightreserve" padding="both") %}
+{% row(style="left" bgStyle="full" margin="moderate" reverse="rightreserve" padding="none") %}
 
 # MYCELIUM
 ### Unleashing the Power of Decentralized Networks

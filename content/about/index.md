@@ -38,7 +38,7 @@ It is an advanced IPv6 overlay network designed to create a decentralized and ef
 
 <!-- section 2 -->
 
-{% row(style="center" margin="narrow" padding="bottom") %}
+{% row(style="center" margin="narrow" padding="none") %}
 
 ## Why Mycelium 
 
